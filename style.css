@@ -1,0 +1,32 @@
+/*using this to style my page */
+
+a{color: rgb(255, 0, 140);background-color: yellow; }
+
+p{
+    margin-left: 10%;
+    color: purple;
+    background-color: orangered;
+    color: navy;
+    text-overflow: ellipsis;
+    border-color: lawngreen;
+
+}
+
+body{
+    background-color: black;
+}
+
+img{
+    margin-left: 40%;
+}
+
+h1{
+    background-color: rgb(99, 99, 223);
+}
+
+table{
+    border-color: lawngreen;
+    border-style: inset;
+    margin-top: 10%;
+    margin-left: 40%;
+}
